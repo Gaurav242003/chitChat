@@ -1,4 +1,4 @@
-# 📱 chiChat
+# 📱 chitChat
 
 A **real-time chat application** built to simulate core features of WhatsApp. This project demonstrates **system design, scalability, and full-stack development skills** using modern web technologies.  
 
@@ -28,7 +28,7 @@ A **real-time chat application** built to simulate core features of WhatsApp. Th
 ---
 
 ## ⚙️ Setup & Installation
-
+```bash
 ### 1. Clone the repository
 git clone 
 
@@ -52,7 +52,7 @@ docker-compose up
 │── frontend/           # React client (planned)
 │
 │── README.md           # Project documentation
-
+```
 ## Future Scope
 - Multi-device sync (like WhatsApp Web)
 - End-to-End Encryption (E2EE)

@@ -42,7 +42,7 @@ npm start
 docker-compose up
 
 
-## Project Structure
+### Project Structure
 │── backend/            # Express + Socket.io server
 │   ├── models/         # MongoDB schemas
 │   ├── routes/         # API routes
@@ -53,14 +53,14 @@ docker-compose up
 │
 │── README.md           # Project documentation
 ```
-## Future Scope
+## 🔮 Future Scope
 - Multi-device sync (like WhatsApp Web)
 - End-to-End Encryption (E2EE)
 - Scaling with Kafka / RabbitMQ for distributed messaging
 - Deploy on AWS/GCP with Kubernetes + Load Balancer
 - Integrate AI chatbot (for smart replies)
 
-## Why this project
+## 🏆 Why this project
 - Practice system design concepts (real-time communication, scalability, consistency).
 - Build an interview-ready project for FAANG-level SDE roles.
 - Showcase full-stack engineering skills with real-time, distributed systems.
